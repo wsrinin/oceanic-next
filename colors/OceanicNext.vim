@@ -285,5 +285,5 @@ let g:terminal_color_7=s:base05[0]
 let g:terminal_color_15=s:base05[0]
 
 let g:terminal_color_background=s:base00[0]
-let g:terminal_color_foreground=s:base10[0]
+let g:terminal_color_foreground=s:base00[0]
 
