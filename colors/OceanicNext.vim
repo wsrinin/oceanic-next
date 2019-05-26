@@ -42,7 +42,6 @@
   let s:base0D=['#6699cc', '68']
   let s:base0E=['#c594c5', '176']
   let s:base0F=['#ab7967', '137']
-  let s:base10=['#ffffff', '15']
   let s:none=['NONE', 'NONE']
 
 " }}}
