@@ -15,7 +15,7 @@ color_13:         'base06'
 color_14:         'base0F'
 color_15:         'base07'
 color_background: 'base00'
-color_foreground: 'base10'
+color_foreground: 'base00'
 
 
 # color_7:          'base07'
